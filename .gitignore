@@ -2,7 +2,7 @@ model_100_epochs.h5
 __pycache__/
 predictions/
 predictions/
-logs/
+logs/*
 training_checkpoints/
 .idea/*
 venv/
